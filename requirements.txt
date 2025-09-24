@@ -7,3 +7,6 @@ anthropic
 python-dotenv
 flask-cors
 pymongo
+crewai>=0.28.8
+crewai[tools]>=0.28.8
+openai>=1.0.0
